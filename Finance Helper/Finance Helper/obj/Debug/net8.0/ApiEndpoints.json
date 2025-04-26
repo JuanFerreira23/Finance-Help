@@ -1,5 +1,84 @@
 [
   {
+    "ContainingType": "Finance_Helper.Controllers.GastoController",
+    "Method": "DeleteGasto",
+    "RelativePath": "api/Gasto/{gastoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gastoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finance_Helper.Controllers.GastoController",
+    "Method": "GetResumoMensal",
+    "RelativePath": "api/Gasto/resumo/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ano",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finance_Helper.Controllers.GastoController",
+    "Method": "GetGastosByUsuario",
+    "RelativePath": "api/Gasto/usuario/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finance_Helper.Controllers.GastoController",
+    "Method": "AddGasto",
+    "RelativePath": "api/Gasto/usuario/{usuarioId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "novoGasto",
+        "Type": "Finance_Helper.Service.GastoSevice.GastoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Finance_Helper.Controllers.UsuarioController",
     "Method": "GetUsuarios",
     "RelativePath": "api/Usuario",

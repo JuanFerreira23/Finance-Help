@@ -5,9 +5,11 @@ import logo from "../../assets/images/logo1.png";
 import "./login.css";
 import { login, saveTokens } from "../../services/loginService";
 import axios from "axios";
+import { useNavigate } from 'react-router-dom';
 
 const Login = () => {
   const [key, setKey] = useState("login");
+  const navigate = useNavigate();
 
   // Login states
   const [email, setEmail] = useState("");
@@ -33,23 +35,24 @@ const Login = () => {
     try {
       const response = await login(email, password);
   
-      // Exibe no console toda a resposta igual ao Swagger
       console.log("Resposta do login:", response);
   
-      const { accessToken, refreshToken } = response.dados;
+       const { accessToken, refreshToken, idUsuario } = response.dados;
   
-      if (!accessToken || !refreshToken) {
+      if (!accessToken || !refreshToken || !idUsuario) {
         throw new Error("Usuário ou senha inválidos!");
       }
   
-      saveTokens({ accessToken, refreshToken });
+      saveTokens({ accessToken, refreshToken, idUsuario});
+
+      // 🚀 Redireciona para o dashboard após login bem-sucedido
+      navigate('/dashboard');
     } catch (err) {
       console.error("Erro ao tentar fazer login:", err);
       setError(err.message || "Falha no login");
     }
   };
   
-
   const handleRegister = async (e) => {
     e.preventDefault();
 
@@ -73,7 +76,7 @@ const Login = () => {
         setRegisterEmail("");
         setRegisterPassword("");
         setTelefone("");
-        setKey("login"); // volta pro login
+        setKey("login"); // volta para aba de login
       } else {
         setRegisterError(response.data.mensagem || "Erro ao registrar.");
       }

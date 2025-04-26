@@ -1,6 +1,7 @@
 using System.Runtime.CompilerServices;
 using System.Text;
 using Finance_Helper.DataContext;
+using Finance_Helper.Service.GastoSevice;
 using Finance_Helper.Service.UsuarioService;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -44,6 +45,8 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 builder.Services.AddScoped<IUsuarioInterface, UsuarioService>();
+builder.Services.AddScoped<IGastoInterface, GastoService>();
+
 
 
 builder.Services.AddDbContext<ApplicationDBContext>(options =>

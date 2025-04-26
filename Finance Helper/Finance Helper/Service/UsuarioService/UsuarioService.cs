@@ -153,8 +153,13 @@ namespace Finance_Helper.Service.UsuarioService
 
             _context.RefreshTokens.Add(refreshTokenModel);
             await _context.SaveChangesAsync();
-
-            response.Dados = new { AccessToken = accessToken, RefreshToken = refreshToken };
+            
+            response.Dados = new
+            {
+                accessToken,
+                refreshToken,
+                idUsuario = usuario.Id
+            };
             return response;
         }
 

@@ -1,5 +1,3 @@
-import { MdEmail } from "react-icons/md";
-
 export const login = async (email, password) => {
   try {
     const response = await fetch("https://localhost:7219/api/Usuario/login", {
@@ -20,13 +18,19 @@ export const login = async (email, password) => {
   }
 };
 
-export const saveTokens = ({ accessToken, refreshToken }) => {
-  localStorage.setItem("token", accessToken);
+export function saveTokens({ accessToken, refreshToken, idUsuario }) {
+  localStorage.setItem("accessToken", accessToken);
   localStorage.setItem("refreshToken", refreshToken);
-};
+  if (idUsuario) {
+    localStorage.setItem("idUsuario", idUsuario);
+  }
+}
 
-export const logout = () => {
-  localStorage.removeItem("token");
+
+export const getAccessToken = () => localStorage.getItem("accessToken");
+
+export const clearTokens = () => {
+  localStorage.removeItem("accessToken");
   localStorage.removeItem("refreshToken");
 };
 

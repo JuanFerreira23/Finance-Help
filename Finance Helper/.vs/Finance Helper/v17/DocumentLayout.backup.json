@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\service\\usuarioservice\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\service\\usuarioservice\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\service\\usuarioservice\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\service\\usuarioservice\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Migrations\\20250426173237_AddGastoModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Finance Helper\\Migrations\\20250426173237_AddGastoModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\service\\gastosevice\\gastoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\service\\gastosevice\\gastoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\service\\gastosevice\\igastointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\service\\gastosevice\\igastointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\service\\usuarioservice\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\service\\usuarioservice\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\service\\gastosevice\\gastodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\service\\gastosevice\\gastodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\models\\gastomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\models\\gastomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\migrations\\20250315032717_first-migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\migrations\\20250315032717_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\migrations\\20250315032717_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\service\\usuarioservice\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\service\\usuarioservice\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\service\\usuarioservice\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|solutionrelative:finance helper\\service\\usuarioservice\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07A9E001-A26E-48D0-9FC0-EDD6A5EDB79E}|Finance Helper\\Finance Helper.csproj|c:\\users\\muril\\onedrive\\documentos\\si\\lab de prog\\finance helper\\finance helper\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -48,7 +80,7 @@
               "RelativeDocumentMoniker": "Finance Helper\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Finance Helper\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T14:13:34.406Z",
               "IsPinned": true,
@@ -56,13 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\UsuarioService\\UsuarioService.cs",
               "RelativeDocumentMoniker": "Finance Helper\\Service\\UsuarioService\\UsuarioService.cs",
               "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\UsuarioService\\UsuarioService.cs",
               "RelativeToolTip": "Finance Helper\\Service\\UsuarioService\\UsuarioService.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAADwv30AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAgwJ4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T14:32:47.347Z",
               "IsPinned": true,
@@ -70,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IUsuarioInterface.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\UsuarioService\\IUsuarioInterface.cs",
               "RelativeDocumentMoniker": "Finance Helper\\Service\\UsuarioService\\IUsuarioInterface.cs",
@@ -79,11 +111,129 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T14:33:08.707Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "20250426173237_AddGastoModel.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Migrations\\20250426173237_AddGastoModel.cs",
+              "RelativeDocumentMoniker": "Finance Helper\\Migrations\\20250426173237_AddGastoModel.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Migrations\\20250426173237_AddGastoModel.cs",
+              "RelativeToolTip": "Finance Helper\\Migrations\\20250426173237_AddGastoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:32:37.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\DataContext\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Finance Helper\\DataContext\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\DataContext\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Finance Helper\\DataContext\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:25:56.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GastoController.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Controllers\\GastoController.cs",
+              "RelativeDocumentMoniker": "Finance Helper\\Controllers\\GastoController.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Controllers\\GastoController.cs",
+              "RelativeToolTip": "Finance Helper\\Controllers\\GastoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:25:29.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GastoService.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\GastoSevice\\GastoService.cs",
+              "RelativeDocumentMoniker": "Finance Helper\\Service\\GastoSevice\\GastoService.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\GastoSevice\\GastoService.cs",
+              "RelativeToolTip": "Finance Helper\\Service\\GastoSevice\\GastoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:18:56.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGastoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\GastoSevice\\IGastoInterface.cs",
+              "RelativeDocumentMoniker": "Finance Helper\\Service\\GastoSevice\\IGastoInterface.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\GastoSevice\\IGastoInterface.cs",
+              "RelativeToolTip": "Finance Helper\\Service\\GastoSevice\\IGastoInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:14:47.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\UsuarioService\\UsuarioLoginDTO.cs",
+              "RelativeDocumentMoniker": "Finance Helper\\Service\\UsuarioService\\UsuarioLoginDTO.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\UsuarioService\\UsuarioLoginDTO.cs",
+              "RelativeToolTip": "Finance Helper\\Service\\UsuarioService\\UsuarioLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:58:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Program.cs",
+              "RelativeDocumentMoniker": "Finance Helper\\Program.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Program.cs",
+              "RelativeToolTip": "Finance Helper\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:40:47.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GastoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\GastoSevice\\GastoDTO.cs",
+              "RelativeDocumentMoniker": "Finance Helper\\Service\\GastoSevice\\GastoDTO.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\GastoSevice\\GastoDTO.cs",
+              "RelativeToolTip": "Finance Helper\\Service\\GastoSevice\\GastoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:13:27.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GastoModel.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Models\\GastoModel.cs",
+              "RelativeDocumentMoniker": "Finance Helper\\Models\\GastoModel.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Models\\GastoModel.cs",
+              "RelativeToolTip": "Finance Helper\\Models\\GastoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:10:40.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20250315032717_first-migration.Designer.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Migrations\\20250315032717_first-migration.Designer.cs",
               "RelativeDocumentMoniker": "Finance Helper\\Migrations\\20250315032717_first-migration.Designer.cs",
@@ -91,12 +241,11 @@
               "RelativeToolTip": "Finance Helper\\Migrations\\20250315032717_first-migration.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:03:28.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T16:03:28.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "20250315032717_first-migration.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Migrations\\20250315032717_first-migration.cs",
               "RelativeDocumentMoniker": "Finance Helper\\Migrations\\20250315032717_first-migration.cs",
@@ -104,12 +253,11 @@
               "RelativeToolTip": "Finance Helper\\Migrations\\20250315032717_first-migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:03:26.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T16:03:26.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "UsuarioModel.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Models\\UsuarioModel.cs",
               "RelativeDocumentMoniker": "Finance Helper\\Models\\UsuarioModel.cs",
@@ -118,18 +266,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T13:19:35.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioLoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\UsuarioService\\UsuarioLoginDTO.cs",
-              "RelativeDocumentMoniker": "Finance Helper\\Service\\UsuarioService\\UsuarioLoginDTO.cs",
-              "ToolTip": "C:\\Users\\muril\\OneDrive\\Documentos\\SI\\Lab de Prog\\Finance Helper\\Finance Helper\\Service\\UsuarioService\\UsuarioLoginDTO.cs",
-              "RelativeToolTip": "Finance Helper\\Service\\UsuarioService\\UsuarioLoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T14:58:01.085Z"
             }
           ]
         }
