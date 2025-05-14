@@ -6,7 +6,9 @@ using Finance_Helper.Service.UsuarioService;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using Microsoft.OpenApi.Models;
+using Microsoft.OpenApi.Models;    
+using Microsoft.AspNetCore.Identity; 
+using Finance_Helper.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -44,6 +46,8 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+builder.Services.AddScoped<IPasswordHasher<UsuarioModel>, PasswordHasher<UsuarioModel>>();
+
 builder.Services.AddScoped<IUsuarioInterface, UsuarioService>();
 builder.Services.AddScoped<IGastoInterface, GastoService>();
 
@@ -55,7 +59,7 @@ builder.Services.AddDbContext<ApplicationDBContext>(options =>
 });
 
 var configuration = builder.Configuration;
-var secretKey = configuration["JwtSettings:Secret"] ?? throw new ArgumentNullException("JwtSettings:Secret não foi encontrado no appsettings.json");
+var secretKey = configuration["JwtSettings:Secret"] ?? throw new ArgumentNullException("JwtSettings:Secret nÃ£o foi encontrado no appsettings.json");
 var key = Encoding.UTF8.GetBytes(secretKey);
 
 builder.Services.AddAuthentication(x =>
